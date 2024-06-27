@@ -6,7 +6,9 @@ Relive the nostalgic challenge! Navigate a pixelated landscape as a mighty T-Rex
 Perfect for beginners: This project is ideal for those starting their web development journey, allowing you to explore core concepts like:
 
 HTML: Structure the game's elements.
+
 CSS: Style the dinosaur, obstacles, and background.
+
 JavaScript: Implement game mechanics like movement, collision detection, and scoring.
 Features:
 
